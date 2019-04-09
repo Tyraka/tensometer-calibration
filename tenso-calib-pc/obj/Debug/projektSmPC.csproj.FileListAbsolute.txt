@@ -1,0 +1,30 @@
+C:\Users\drkar\Desktop\sm projekt\projektSmPC\projektSmPC\bin\Debug\projektSmPC.exe.config
+C:\Users\drkar\Desktop\sm projekt\projektSmPC\projektSmPC\bin\Debug\projektSmPC.exe
+C:\Users\drkar\Desktop\sm projekt\projektSmPC\projektSmPC\bin\Debug\projektSmPC.pdb
+C:\Users\drkar\Desktop\sm projekt\projektSmPC\projektSmPC\obj\Debug\projektSmPC.csprojAssemblyReference.cache
+C:\Users\drkar\Desktop\sm projekt\projektSmPC\projektSmPC\obj\Debug\MainWindow.g.cs
+C:\Users\drkar\Desktop\sm projekt\projektSmPC\projektSmPC\obj\Debug\App.g.cs
+C:\Users\drkar\Desktop\sm projekt\projektSmPC\projektSmPC\obj\Debug\projektSmPC_MarkupCompile.cache
+C:\Users\drkar\Desktop\sm projekt\projektSmPC\projektSmPC\obj\Debug\projektSmPC_MarkupCompile.lref
+C:\Users\drkar\Desktop\sm projekt\projektSmPC\projektSmPC\obj\Debug\MainWindow.baml
+C:\Users\drkar\Desktop\sm projekt\projektSmPC\projektSmPC\obj\Debug\projektSmPC.g.resources
+C:\Users\drkar\Desktop\sm projekt\projektSmPC\projektSmPC\obj\Debug\projektSmPC.Properties.Resources.resources
+C:\Users\drkar\Desktop\sm projekt\projektSmPC\projektSmPC\obj\Debug\projektSmPC.csproj.GenerateResource.cache
+C:\Users\drkar\Desktop\sm projekt\projektSmPC\projektSmPC\obj\Debug\projektSmPC.csproj.CoreCompileInputs.cache
+C:\Users\drkar\Desktop\sm projekt\projektSmPC\projektSmPC\obj\Debug\projektSmPC.exe
+C:\Users\drkar\Desktop\sm projekt\projektSmPC\projektSmPC\obj\Debug\projektSmPC.pdb
+C:\Users\drkar\Desktop\projektSmPC\projektSmPC\bin\Debug\projektSmPC.exe.config
+C:\Users\drkar\Desktop\projektSmPC\projektSmPC\bin\Debug\projektSmPC.exe
+C:\Users\drkar\Desktop\projektSmPC\projektSmPC\bin\Debug\projektSmPC.pdb
+C:\Users\drkar\Desktop\projektSmPC\projektSmPC\obj\Debug\projektSmPC.csprojAssemblyReference.cache
+C:\Users\drkar\Desktop\projektSmPC\projektSmPC\obj\Debug\MainWindow.g.cs
+C:\Users\drkar\Desktop\projektSmPC\projektSmPC\obj\Debug\App.g.cs
+C:\Users\drkar\Desktop\projektSmPC\projektSmPC\obj\Debug\projektSmPC_MarkupCompile.cache
+C:\Users\drkar\Desktop\projektSmPC\projektSmPC\obj\Debug\projektSmPC_MarkupCompile.lref
+C:\Users\drkar\Desktop\projektSmPC\projektSmPC\obj\Debug\MainWindow.baml
+C:\Users\drkar\Desktop\projektSmPC\projektSmPC\obj\Debug\projektSmPC.g.resources
+C:\Users\drkar\Desktop\projektSmPC\projektSmPC\obj\Debug\projektSmPC.Properties.Resources.resources
+C:\Users\drkar\Desktop\projektSmPC\projektSmPC\obj\Debug\projektSmPC.csproj.GenerateResource.cache
+C:\Users\drkar\Desktop\projektSmPC\projektSmPC\obj\Debug\projektSmPC.csproj.CoreCompileInputs.cache
+C:\Users\drkar\Desktop\projektSmPC\projektSmPC\obj\Debug\projektSmPC.exe
+C:\Users\drkar\Desktop\projektSmPC\projektSmPC\obj\Debug\projektSmPC.pdb
